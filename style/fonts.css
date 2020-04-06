@@ -1,0 +1,20 @@
+@font-face {
+    font-family: Averta-Black;
+    src: url("../fonts/Averta-Black.ttf");
+}
+@font-face {
+    font-family: Averta-Bold;
+    src: url("../fonts/Averta-Bold.ttf");
+}
+@font-face {
+    font-family: Averta-Regular;
+    src: url("../fonts/Averta-Regular.ttf");
+}
+@font-face {
+    font-family: Averta-SemiboldItalic;
+    src: url("../fonts/Averta-SemiboldItalic.ttf");
+}
+@font-face {
+    font-family: Averta-Semibold;
+    src: url("../fonts/Averta-Semibold.ttf");
+}
